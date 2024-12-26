@@ -27,7 +27,8 @@ description: Upload and download files.
 
 # cordova-plugin-file-transfer
 
-This plugin allows you to upload and download files.
+兼容cordova-android 10.x 
+2.0.0 版本不在支持cordova-android 10.x
 
 This plugin defines global `FileTransfer`, `FileUploadOptions` constructors. Although in the global scope, they are not available until after the `deviceready` event.
 
