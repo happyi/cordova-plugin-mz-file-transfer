@@ -14,3 +14,4 @@ Thumbs.db
 .idea
 .github
 node_modules
+/cordova-plugin-mz-file-transfer.iml
